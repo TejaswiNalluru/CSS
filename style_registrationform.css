@@ -1,0 +1,26 @@
+body{
+    background-color:#ccffff;
+    border: 10px solid gray;
+    margin: 0;
+}
+table{
+    margin:auto;
+    width:100%;
+    padding-left: 15px;
+    font-size:large ;
+}
+
+header{
+    background-color: #00cccc;
+    padding: 10px;
+}
+td{
+    padding:8px;
+}
+#search{
+    width:170px;
+    height:40px;
+}
+footer{
+    padding:15px 30px 50px 120px;
+}
